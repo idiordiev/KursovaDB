@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 // Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
 // If you have enabled NRTs for your project, then un-comment the following line:
@@ -18,6 +19,7 @@ namespace KursovaDB.DAL.Entities
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
         public string LastName { get; set; }
+        [DisplayFormat(DataFormatString = "{0:d}")]
         public DateTime? DateOfBirth { get; set; }
         public string CityOfResidence { get; set; }
         public string AddressOfResidence { get; set; }
