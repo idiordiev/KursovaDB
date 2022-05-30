@@ -1,0 +1,12 @@
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\bin\Debug\netcoreapp3.1\KursovaDB.DAL.deps.json
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\bin\Debug\netcoreapp3.1\KursovaDB.DAL.runtimeconfig.json
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\bin\Debug\netcoreapp3.1\KursovaDB.DAL.runtimeconfig.dev.json
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\bin\Debug\netcoreapp3.1\KursovaDB.DAL.dll
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\bin\Debug\netcoreapp3.1\KursovaDB.DAL.pdb
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.csprojAssemblyReference.cache
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.AssemblyInfoInputs.cache
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.AssemblyInfo.cs
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.dll
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.pdb
+C:\Users\Ivan\RiderProjects\KursovaDB\KursovaDB.DAL\obj\Debug\netcoreapp3.1\KursovaDB.DAL.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovaDB.WebAppMVC", "KursovaDB.WebAppMVC\KursovaDB.WebAppMVC.csproj", "{C90262BA-45C2-473B-B6CA-B8470D80290B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovaDB.DAL", "KursovaDB.DAL\KursovaDB.DAL.csproj", "{03E78C4E-E4B5-4C5C-A427-7014FE11D9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90262BA-45C2-473B-B6CA-B8470D80290B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90262BA-45C2-473B-B6CA-B8470D80290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90262BA-45C2-473B-B6CA-B8470D80290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90262BA-45C2-473B-B6CA-B8470D80290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E78C4E-E4B5-4C5C-A427-7014FE11D9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E78C4E-E4B5-4C5C-A427-7014FE11D9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E78C4E-E4B5-4C5C-A427-7014FE11D9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E78C4E-E4B5-4C5C-A427-7014FE11D9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
